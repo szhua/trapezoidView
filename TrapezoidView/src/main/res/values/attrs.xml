@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TrapezoidView">
+
+        <attr name="tx_width" format="dimension|reference"/>
+        <attr name="tx_color" format="color|reference"/>
+
+    </declare-styleable>
+
+</resources>
